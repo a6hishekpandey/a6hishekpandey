@@ -56,7 +56,7 @@ A passionate front-end developer from India!
 
 -   Secured **Global Rank 146** in HackerEarth September Circuits’21 among 5,444 participants.
 
--   **Institute Rank 10** in GeeksforGeeks Practice among 1500+ registered students.
+-   **Institute Rank 12** in GeeksforGeeks Practice among 1600+ registered students.
 
 -   Solved **700+** problems of Data Structures and Algorithms on [LeetCode](https://leetcode.com/a6hishekpandey) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/a6hishekpandey).
 

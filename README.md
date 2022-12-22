@@ -8,9 +8,9 @@ A passionate front-end developer from India!
 
 ### 🔗 Coding profiles:
 
--   **LeetCode:** [@a6hishekpandey](https://leetcode.com/a6hishekpandey)
+-   **LeetCode:** [@a6hishekpandey](https://leetcode.com/a6hishekpandey/)
 
--   **GeeksforGeeks:** [@a6hishekpandey](https://auth.geeksforgeeks.org/user/a6hishekpandey)
+-   **GeeksforGeeks:** [@a6hishekpandey](https://auth.geeksforgeeks.org/user/a6hishekpandey/)
 
 [comment]: <> (Skills)
 
@@ -50,14 +50,14 @@ A passionate front-end developer from India!
 
 ## 🚀 Achievements
 
+-   Secured **Rank 12** in GFG Weekly Coding Contest - 81 among 520 participants (Top **2.30%**).
+
 -   Secured **Rank 39** in Codestudio Weekend Contest 32 among 3,302 participants (Top **1.18%**).
 
 -   Secured **Global Rank 689** in LeetCode Weekly Contest 313 among 22,878 participants.
 
--   Secured **Global Rank 146** in HackerEarth September Circuits’21 among 5,444 participants.
+-   **Institute Rank 11** in GeeksforGeeks Practice among 1700+ registered students.
 
--   **Institute Rank 12** in GeeksforGeeks Practice among 1600+ registered students.
+-   Solved **750+** problems of Data Structures and Algorithms on [LeetCode](https://leetcode.com/a6hishekpandey/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/a6hishekpandey/).
 
--   Solved **700+** problems of Data Structures and Algorithms on [LeetCode](https://leetcode.com/a6hishekpandey) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/a6hishekpandey).
-
--   Passed HackerRank Skills Certification Test of **SQL (Intermediate)** [Certificate](https://www.hackerrank.com/certificates/906aacbb59df).
+-   Passed HackerRank Skills Certification Test of **SQL (Intermediate)** [Certificate](https://www.hackerrank.com/certificates/906aacbb59df/).
